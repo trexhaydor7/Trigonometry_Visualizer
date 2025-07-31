@@ -21,22 +21,26 @@ This project is a simple webpage that lets you visualize trigonometric functions
 
 ---
 
-   ## How to use the Trigonometry Visualizer
+## How to use the Trigonometry Visualizer
 
-## 🖥️ Run Locally
-1. Install the required packages:
+### 🖥️ Run Locally
+
+1.Clone this repository:
+
+   ```bash
+   git clone https://github.com/trexhaydor7/Trigonometry_Visualizer.git
+   cd Trigonometry_Visualizer
+   ```
+   Or click the green **Code** button 🟢 and then select **Download ZIP**.
+   
+2.  Install the required packages:
    ```bash
    pip install -r requirements.txt
    ```
    ```bash
    pip install matplotlib numpy
    ```
-   
-2. Download or clone this repository:
-   ```bash
-   git clone https://github.com/trexhaydor7/Trigonometry_Visualizer.git
-   cd Trigonometry_Visualizer
-   
+
 3. Run the app:
    ```bash
    python Trigonometry_Visualizer.py
