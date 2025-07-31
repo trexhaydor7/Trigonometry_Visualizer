@@ -17,8 +17,9 @@ This project is a simple webpage that lets you visualize trigonometric functions
 
    ## How to use the Trigonometry Visualizer
 
-   1. Install dependencies
-  
-pip install matplotlib
+## 🖥️ Run Locally
 
-pip install numpy
+1. Download or clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/trig-visualizer.git
+   cd trig-visualizer
