@@ -7,7 +7,7 @@
 
 This project is a simple webpage that lets you visualize trigonometric functions. I used Matplotlib to design a simple user interface and to visualize the unit circle. This project is made fully in Python and utilizes both the Matplotlib and numpy library for trigonometric functions, such as sin(θ), cos(θ), tan(θ), etc.
 
-** Features:**
+### Features:
  * Visualize trigonometry in action 🏃
  * Scale up/down the size of grid for viewing 🎥
  * Switch between one and multiple triangles 🖱️
