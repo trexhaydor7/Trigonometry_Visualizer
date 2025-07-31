@@ -27,7 +27,7 @@ This project is a simple webpage that lets you visualize trigonometric functions
    pip install -r requirements.txt
    ```
    ```bash
-   pip install -r requirements.txt
+   pip install matplotlib numpy
    ```
    
 2. Download or clone this repository:
