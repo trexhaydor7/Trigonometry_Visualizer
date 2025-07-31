@@ -33,10 +33,13 @@ This project is a simple webpage that lets you visualize trigonometric functions
    ```
    Or click the green **Code** button 🟢 and then select **Download ZIP**.
    
-2.  Install the required packages:
+2.  Install the required packages together:
+   
    ```bash
    pip install -r requirements.txt
    ```
+   Or individually:
+   
    ```bash
    pip install matplotlib numpy
    ```
