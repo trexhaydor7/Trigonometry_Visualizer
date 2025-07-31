@@ -13,7 +13,7 @@ This project is a simple webpage that lets you visualize trigonometric functions
  * Simple and easy UI with cohesive instructions
  * Text-based calculator for more precise calculations (coming soon)
 
-   <img src="https://1drv.ms/i/c/57cab3e23d66b351/Ee_WYV7igpVGqsUD0Zre8kQBH-kl_L59PflKve42aDxFyA.jpg" alt="Demo Image width="24"
+   <img src="https://1drv.ms/i/c/57cab3e23d66b351/Ee_WYV7igpVGqsUD0Zre8kQBH-kl_L59PflKve42aDxFyA.jpg" alt="Demo Image" width="24"
    height="180" border="10" />
 
    ## How to use the Trigonometry Visualizer
