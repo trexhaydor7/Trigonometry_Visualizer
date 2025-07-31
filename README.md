@@ -46,4 +46,4 @@ This project is a simple webpage that lets you visualize trigonometric functions
 
 3. Run the app:
    ```bash
-   python Trigonometry_Visualizer.py
+   python Trig_Visualizer.py
