@@ -14,9 +14,9 @@ This project is a simple webpage that lets you visualize trigonometric functions
  * Simple and easy UI with cohesive instructions ⬅️
  * Text-based calculator for more precise calculations (coming soon) 👀
 ---
-
+<p  align="center">
    <img src="Screenshot 2025-07-31 185455.png" alt="Demo Image" width="350" border="10" />
-
+</p>
 ---
 
    ## How to use the Trigonometry Visualizer
