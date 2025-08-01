@@ -43,7 +43,9 @@ This project is a simple webpage that lets you visualize trigonometric functions
    ```bash
    pip install matplotlib numpy
    ```
-
 3. Run the app:
-   ```bash
-   python Trig_Visualizer.py
+
+```bash
+python Trig_Visualizer.py
+```
+   
